@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Yeshi Leksang\\Desktop\\app\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\Users\\Yeshi Leksang\\Desktop\\app\\app.csproj",
+      "projectUniqueName": "C:\\Users\\Yeshi Leksang\\Documents\\code learn 2024\\c#\\c#.csproj",
+      "projectName": "c#",
+      "projectPath": "C:\\Users\\Yeshi Leksang\\Documents\\code learn 2024\\c#\\c#.csproj",
       "packagesPath": "C:\\Users\\Yeshi Leksang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Yeshi Leksang\\Desktop\\app\\obj\\",
+      "outputPath": "C:\\Users\\Yeshi Leksang\\Documents\\code learn 2024\\c#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Yeshi Leksang\\AppData\\Roaming\\NuGet\\NuGet.Config"
